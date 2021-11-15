@@ -1,5 +1,5 @@
 body {
-    background: blue;
+    background: lightblue;
 }
 h1 {
     margin: auto;
@@ -22,7 +22,33 @@ div {
     margin: auto;
 }
 p {
+    text-shadow:
+		-1px -1px 0 #000,
+		1px -1px 0 #000,
+		-1px 1px 0 #000,
+		1px 1px 0 #000;
     display: inline;
     padding: 20px;
     font-size: xx-large;
+}
+#Red {
+    color: red;
+}
+#Orange {
+    color: orange;
+}
+#Yellow {
+    color: yellow;
+}
+#Green {
+    color: green;
+}
+#Blue {
+    color: blue
+}
+#Purple {
+    color: purple;
+}
+#Pink {
+    color: pink;
 }
