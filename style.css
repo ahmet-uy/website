@@ -16,3 +16,13 @@ td {
     height: 60px;
     background-color: white;
 }
+div {
+    display: block;
+    text-align: center;
+    margin: auto;
+}
+p {
+    display: inline;
+    padding: 20px;
+    font-size: xx-large;
+}
